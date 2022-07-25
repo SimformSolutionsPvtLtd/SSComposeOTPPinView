@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SSComposeOTPView</string>
+    <string name="title_activity_otpview">OTPView</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="instruction_title">Please enter the verification code sent to +xxxxxxxxxxxx</string>
+    <string name="title">Verification Code</string>
+    <string name="simple_otpview_with_dot_char">Simple OTPView with dot character</string>
+    <string name="box_otpview_with_dot_char">Box OTPView with dot character</string>
+    <string name="underline_otpview_with_dot_char">Underline OTPView with dot character</string>
+    <string name="simple_otpview_with_star_char">Simple OTPView with star character</string>
+    <string name="box_otpview_with_star_char">Box OTPView with star character</string>
+    <string name="underline_otpview_with_star_char">Underline OTPView with star character</string>
+    <string name="otp_correct">OTP is correct</string>
+    <string name="validate">Validate</string>
+</resources>
