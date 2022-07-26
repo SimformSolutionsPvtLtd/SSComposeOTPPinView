@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg?style=flat)](https://www.android.com/)
 
 A custom view to enter a code usually used in authentication.
-Different type of OTPViews. Easy to use and configure your own view and character of OTP using all the attributes.
+Different types of OTPViews. Easy to use and configure your own view and character of OTP using all the attributes.
 
 # Features
 * Simple OTPView
@@ -99,6 +99,9 @@ Check out our __[Contributing Guide](https://github.com/SimformSolutionsPvtLtd/S
 
 ## Bugs and Feedback
 For bugs, feature requests, and discussion please use [GitHub Issues](https://github.com/SimformSolutionsPvtLtd/SSComposeOTPPinView/issues).
+
+## Awesome Mobile Libraries
+- Check out our other available [awesome mobile libraries](https://github.com/SimformSolutionsPvtLtd/Awesome-Mobile-Libraries)
 
 ## License
 
